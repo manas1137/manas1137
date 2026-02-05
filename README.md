@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently student<br>i am doing BS degree<br>
+I am currently student<br>I am doing BSC(Comp. Sci) degree<br>
 
 
 ## 🌐 Socials:
