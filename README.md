@@ -67,24 +67,22 @@ I focus on creating **clean interfaces, efficient backend APIs, and seamless use
 
 ---
 
-# 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
+  <a href="mailto:manas342004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Manas%20Kadam-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/manas-kadam-b58359251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Manas%20Kadam-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/YOURUSERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+  <a href="https://github.com/manas1137" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-manas1137-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  </a>
+</p>
 
-<a href="https://github.com/YOURUSERNAME">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=F7B74F"/>
-</a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manas1137&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
 </p>
