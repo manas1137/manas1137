@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;MERN+Stack+Developer;UI%2FUX+Design+Mindset;Clean+Code+%7C+Modern+Interfaces"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Building+Modern+Web+Applications;UI%2FUX+Driven+Development;Clean+Code+%7C+Scalable+Systems"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I am a **MERN Stack Developer** who enjoys building modern, scalable web applications with clean UI and smooth user experiences.
+I am a **MERN Stack Developer** with a strong **UI/UX design mindset**, passionate about building modern, scalable web applications.
 
-I focus on writing maintainable code, designing intuitive interfaces, and developing full-stack solutions using the **MongoDB, Express, React, and Node.js ecosystem**.
+I focus on creating **clean interfaces, efficient backend APIs, and seamless user experiences** using the MERN ecosystem.
 
 ---
 
@@ -22,7 +22,7 @@ I focus on writing maintainable code, designing intuitive interfaces, and develo
 **Frontend:** React, JavaScript, HTML, CSS  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB  
-**Design Mindset:** UI/UX Focused Development
+**Design Focus:** UI/UX & User-Centered Development
 
 ---
 
@@ -32,64 +32,59 @@ I focus on writing maintainable code, designing intuitive interfaces, and develo
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,figma,git,github,docker&theme=dark"/>
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
 ---
 
-# 🎨 UI/UX Focus
+# 🎨 UI/UX Development Focus
 
-• Responsive UI Design  
+• Responsive Web Design  
 • Clean Component Architecture  
 • User-Centered Design Thinking  
-• Smooth Interaction & Experience  
-
----
-
-# 🚀 Featured Projects
-
-### 🌐 Full Stack Web App
-A MERN application with authentication, API integration, and responsive UI.
-
-Stack: **React, Node.js, Express, MongoDB**
-
----
-
-### 🛒 E-Commerce Web App
-Full stack shopping platform with cart and authentication.
-
-Stack: **React, Node.js, MongoDB**
-
----
-
-### 🎨 UI/UX Web Project
-Modern responsive landing page with smooth UX.
-
-Stack: **React, CSS, Figma**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark"/>
-<img height="170" src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=github-dark"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark"/>
-</p>
+• Smooth Interactions & UX Optimization  
 
 ---
 
 # 🎯 Current Focus
 
-• Building scalable MERN applications  
-• Improving UI/UX design thinking  
-• Learning advanced React patterns  
-• Backend architecture with Node.js  
+• Building scalable **MERN stack applications**  
+• Improving **UI/UX design workflow**  
+• Learning **advanced React architecture**  
+• Developing production-ready full-stack projects  
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Connect With Me
 
-LinkedIn  
-Portfolio  
-Email
+<p align="center">
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOURUSERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://github.com/YOURUSERNAME">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=F7B74F"/>
+</a>
+
+</p>
